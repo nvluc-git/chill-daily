@@ -1,0 +1,14 @@
+{
+  "title":"Image Gallery",
+  "tagStatic": "static",
+  "tagLive": "live",
+  "buttonSubmit": "Get Wallpaper",
+  "emptyURL": "Image URL cannot be empty!",
+  "greaterURL": "Image URL too short!",
+  "cannotOnlySpace": "Cannot contain only spaces!",
+  "placeholder": "Enter image address here...",
+  "wallpaperChanged": "Wallpaper has been changed!",
+  "cannotLoadedImage": "Image load failed! Please try again or select a new image url!",
+  "changeToFast":"You are changing the wallpaper too fast, try again after 5 seconds!"
+
+}

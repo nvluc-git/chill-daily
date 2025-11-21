@@ -1,0 +1,9 @@
+{
+  "loading": "loading application...",
+  "appNotfound": "App not found",
+  "save": "save",
+  "reset": "reset",
+  "placeholder": "type to something...",
+  "note": "Note: after taking notes, you must save (click the ✔️ icon on the toolbar)",
+  "addSuccess": "saved successfully !"
+}

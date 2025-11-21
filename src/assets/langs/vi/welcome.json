@@ -1,0 +1,21 @@
+{
+  "startBtn": "Bắt đầu",
+  "inputPlaceholer": "hãy nhập tên của bạn để bắt đầu nào...",
+  "inputLabel": "Tên của bạn",
+  "cannotBeBlank": "không được để trống",
+  "onlyBlank": "không được chỉ có mỗi khoảng trống",
+  "tooShort": "quá ngắn",
+  "tooLong": "quá dài",
+  "subTitle": "Không gian số giúp bạn làm việc và thư giãn",
+  "desc": "Chill Daily là ứng dụng cá nhân đa năng được thiết kế để mang đến trải nghiệm làm việc thư thái và hiệu quả. Với giao diện nhẹ nhàng và các tính năng được tinh chỉnh tỉ mỉ, bạn có thể dễ dàng duy trì sự tập trung, quản lý công việc và chăm sóc tinh thần mỗi ngày.",
+  "titleFeatures": "💡 Tính năng nổi bật",
+  "focusMode": "💻 Chế độ tập trung - Tối ưu không gian giúp bạn tập trung tuyệt đối.",
+  "changeWallpaper": "🖼️ Thay đổi hình nền - Tuỳ biến giao diện với hình ảnh yêu thích theo tâm trạng.",
+  "watchYoutube": "📺 Xem video YouTube – Giải trí hoặc học tập ngay trong ứng dụng.",
+  "Note": "📝 Ghi chú & soạn thảo – Viết nhanh mọi ý tưởng với trình soạn văn bản tùy chỉnh.",
+  "taskly": "✅ Quản lý công việc – Lập kế hoạch, theo dõi tiến độ và hoàn thành mục tiêu.",
+  "timer": "⏱️ Hẹn giờ thông minh – Tăng hiệu suất làm việc qua kỹ thuật Pomodoro hoặc đếm ngược.",
+  "bgMusic": "🎵 Nghe nhạc nền – Thư giãn với playlist nhẹ nhàng trong khi bạn làm việc.",
+  "weather": "🌦️ Xem thời tiết - Luôn nắm bắt tình hình thời tiết hiện tại và dự báo, hỗ trợ bạn lên kế hoạch hiệu quả.",
+  "footer": "✨ Biến mỗi ngày trở thành một hành trình chill trọn vẹn ✨"
+}

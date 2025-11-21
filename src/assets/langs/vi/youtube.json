@@ -1,0 +1,19 @@
+{
+  "notisAddNewVideo": "Đã thêm mới một video!",
+  "notisVideoNotFound": "Địa chỉ video có vấn đề, vui lòng thử lại hoặc chọn địa chỉ mới!",
+  "notisVideoExists": "Video đã tồn tại!",
+  "inputRequiredTitle": "Tiêu đề video không được để trống!",
+  "inputMinTitle": "Tiêu đề video quá ngắn!",
+  "inputMaxTitle": "Tiêu đề video quá dài!",
+  "inputOnlySpaceTitle": "Tiêu đề video không được chỉ chứa mỗi khoảng trắng!",
+  "inputRequiredUrl": "Địa chỉ video không được để trống!",
+  "inputMinUrl": "Địa chỉ video quá ngắn!",
+  "inputMaxUrl": "Địa chỉ video quá dài!",
+  "inputOnlySpaceUrl": "Địa chỉ video không được chỉ chứa mỗi khoảng trắng!",
+  "inputEmptyVideoList": "Danh sách video đang trống",
+  "placeholderTitleVideo": "Tiêu đề video...",
+  "placeholderUrlvideo": "Địa chỉ video...",
+  "displayYoutube": "Chưa có video YouTube nào được hiển thị",
+  "displayToolTipTitle": "Hãy đặt tiêu đề video mà bạn muốn",
+  "displayToolTipLink": "Dán địa chỉ video youtube mà bạn muốn dùng"
+}

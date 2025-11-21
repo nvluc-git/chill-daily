@@ -1,0 +1,12 @@
+{
+  "hours":"Giờ",
+  "minutes":"Phút",
+  "seconds":"Giây",
+  "reminder":"Nhắc nhở",
+  "placeholder":"Thêm nhắc nhở cho bản thân...",
+  "startBtn":"Bắt đầu",
+  "resetBtn":"Đặt lại",
+  "pauseBtn":"Tạm dừng",
+  "exitBtn":"Thoát",
+  "timeOut":"Hết giờ"
+}

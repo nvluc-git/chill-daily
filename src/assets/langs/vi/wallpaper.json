@@ -1,0 +1,13 @@
+{
+  "title":"Thư viện ảnh",
+  "tagStatic": "tĩnh",
+  "tagLive": "động",
+  "buttonSubmit": "Thay đổi",
+  "emptyURL": "Địa chỉ hình ảnh không được để trống.",
+  "greaterURL": "Địa chỉ hình anh quá ngắn.",
+  "cannotOnlySpace": "Không được chỉ chứa khoảng trắng.",
+  "placeholder": "nhập địa chỉ hình ảnh vào đây...",
+  "wallpaperChanged": "Hình nền ứng dụng đã được cập nhật!",
+  "cannotLoadedImage": "Tải hình ảnh thất bại! Vui lòng thử lại hoặc chọn địa chỉ hình ảnh mới!",
+   "changeToFast":"Bạn đang thay đổi hình nền quá nhanh, hãy thử lại sau 5 giây!"
+}

@@ -1,0 +1,19 @@
+{
+  "notisAddNewVideo": "A new video has been added!",
+  "notisVideoNotFound": "Video address has problem, please try again or choose a new video address!",
+  "notisVideoExists": "Video already exists!",
+  "inputRequiredTitle": "Video title cannot be empty.",
+  "inputMinTitle": "Video title too short.",
+  "inputMaxTitle": "Video title too long.",
+  "inputOnlySpaceTitle": "Video titles cannot contain only whitespace.",
+  "inputRequiredUrl": "Video address cannot be empty.",
+  "inputMinUrl": "Video address too short.",
+  "inputMaxUrl": "Video address too long.",
+  "inputOnlySpaceUrl": "Video address cannot contain only whitespace.",
+  "inputEmptyVideoList": "Video list is empty",
+  "placeholderTitleVideo": "Video title...",
+  "placeholderUrlvideo": "Video address...",
+  "displayYoutube": "There are no videos displayed yet",
+  "displayToolTipTitle": "Set the video title you want",
+  "displayToolTipLink": "Paste the youtube video address you want to use"
+}

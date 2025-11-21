@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Comfortaa", sans-serif, system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #44475A;
+}
+
+.fontApp {
+  font-family: "Comfortaa"
+}
+
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.zoom-in {
+  animation: zoomIn 0.5s ease-out forwards;
+}

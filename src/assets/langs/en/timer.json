@@ -1,0 +1,12 @@
+{
+  "hours":"Hours",
+  "minutes":"Minutes",
+  "seconds":"Seconds",
+  "reminder":"Reminder",
+  "placeholder":"add reminder to yourself...",
+  "startBtn":"Start",
+  "resetBtn":"Reset",
+  "pauseBtn":"Pause",
+  "exitBtn":"Exit",
+  "timeOut":"Time out!"
+}

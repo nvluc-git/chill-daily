@@ -1,0 +1,21 @@
+{
+  "startBtn": "Get Started",
+  "inputPlaceholer": "enter your name to get started...",
+  "inputLabel": "Your name",
+  "cannotBeBlank": "cannot be blank",
+  "onlyBlank": "Only blank spaces are not permitted",
+  "tooShort": "too short",
+  "tooLong": "too long",
+  "subTitle": "Digital space helps with Work and Relaxation",
+  "desc": "Chill Daily is a multifunctional personal app designed to create a peaceful, focused, and productive experience. With a clean interface and thoughtfully crafted features, it helps you stay organized, centered, and inspired throughout your day.",
+  "titleFeatures": "💡 Outstanding features",
+  "focusMode": "💻 Focus mode - Optimize space to help you focus absolutely.",
+  "changeWallpaper": "🖼️ Change wallpaper – Personalize your workspace with calming images to suit your mood.",
+  "watchYoutube": "📺 Watch YouTube videos – Watch videos for learning or relaxation without switching tabs.",
+  "Note": "📝 Take notes & compose – Capture ideas and write notes with a powerful text editor.",
+  "taskly": "✅ Task management – ​Plan, track, and complete your to-dos with ease.",
+  "timer": "⏱️ Smart timer – Boost productivity using Pomodoro or countdown techniques.",
+  "bgMusic": "🎵 Background music – Set the mood with relaxing background music while you work.",
+  "weather": "🌦️ View the weather - Always be aware of current weather conditions and forecasts, helping you plan effectively.",
+  "footer": "✨ Make each day a perfectly chill journey. ✨"
+}

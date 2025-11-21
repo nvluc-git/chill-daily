@@ -1,0 +1,92 @@
+$Light: 300;
+$Regular: 400;
+$Medium: 500;
+$SemiBold: 600;
+$Bold: 700;
+$colorMain: #00FFD1;
+$colorSub: #F8F8F2;
+$colorHover: #E900FF;
+
+
+%glowing-text {
+    text-shadow: 0 0 10px $colorSub, 0 0 10px $colorMain;
+}
+
+%bold-text {
+    font-weight: $Bold;
+}
+
+@mixin glowing-effect($color, $size) {
+    filter: drop-shadow(0px 0px $size $color) drop-shadow(0 0 $size $color);
+}
+
+@mixin tooltip-style {
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    bottom: -70%;
+    transform: translateX(-50%);
+    color: $colorMain;
+    font-weight: $Bold;
+    font-size: 10px;
+    text-align: center;
+    @extend %glowing-text;
+    white-space: nowrap;
+    transform-origin: center bottom;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+    opacity: 0;
+    z-index: 1;
+}
+
+// 👇 Uses
+.logoApp {
+    font-family: 'Orbitron', sans-serif;
+    color: $colorMain;
+    @extend %bold-text;
+    text-transform: uppercase;
+    white-space: nowrap;
+    word-spacing: 5px;
+    @extend %glowing-text;
+}
+
+.tooltip {
+    position: relative;
+    text-transform: uppercase;
+
+    .tooltipText {
+        @include tooltip-style;
+    }
+
+    &:hover .tooltipText {
+        visibility: visible;
+        opacity: 1;
+        cursor: default;
+    }
+}
+
+.glowingIcon {
+    color: $colorMain;
+    @include glowing-effect($colorMain, 5px);
+}
+
+.glowingText {
+    color: $colorMain;
+    @extend %glowing-text
+}
+
+
+.titleModal {
+    color: $colorMain;
+    @extend %bold-text;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px $colorMain;
+    cursor: default;
+}
+
+.modalShadow {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.ant-form-item-required::before {
+    display: none !important;
+}

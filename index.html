@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="icon" href="/favIcons/duck.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="/favIcons/duck24.png" sizes="24x24" type="image/png">
+  <link rel="icon" href="/favIcons/duck32.png" sizes="32x32" type="image/png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+
+  <title>Chill Daily</title>
+</head>
+
+<style>
+  #global-loader {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:#44475A;
+    z-index: 9999;
+  }
+</style>
+
+
+<body>
+  <div id="global-loader">
+    <img  src="/logo/duckWalk.gif" width="100"/>
+  </div>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>
